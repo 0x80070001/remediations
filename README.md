@@ -1,4 +1,4 @@
-# Microsoft Intune Remediations
+# Microsoft Intune Remediation Examples
 
 Publicly available and santised.
 
